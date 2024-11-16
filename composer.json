@@ -1,0 +1,22 @@
+{
+    "name": "morgens/cpanel-api",
+    "description": "Cpanel Curl Api",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "CpanelApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Makai István<istvan.makai@gmail.com>"
+        }
+    ],
+    "require": {
+        "evert/phpdoc-md": "^0.2.0"
+    },
+    "require-dev": {
+        "victorjonsson/markdowndocs": "^1.3"
+    }
+}
