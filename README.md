@@ -14,8 +14,7 @@ istvan.makai@gmail.com
 
 ## Documentation
 
-[Documentation]
-
+[Documentation](https://github.com/lamantin/cpanel/blob/main/api.md)
 
 ## Manage via API
 
